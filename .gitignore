@@ -1,0 +1,14 @@
+
+# dependencies
+/mis-api/node_modules
+
+/mis-react/node_modules
+
+/mis-vue/node_modules
+
+# dist
+/mis-api/dist
+
+/mis-react/dist
+
+/mis-vue/dist
